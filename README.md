@@ -1,1 +1,1 @@
-IOCs for custom Blacklist attacker IPs
+To share the IOCs for custom Blacklist attacker IPs
